@@ -1,7 +1,7 @@
 name: prakash_bahadur_chand
 description: "The prakash bahadur chand extension for every flutter app that i build"
 version: 0.0.1
-homepage:
+homepage: https://github.com/prakashbahadurchand/prakash_bahadur_chand
 
 environment:
   sdk: ^3.5.4
